@@ -171,7 +171,7 @@ first div in the grid  and place it in the grid. */
       .method{
         grid-row: 3;
       }
-      .client{
+      .clients{
         grid-row: 4;
       }
       .contact{
@@ -191,7 +191,7 @@ first div in the grid  and place it in the grid. */
       .method-image{
         grid-row: 3;
       }
-      .client-image{
+      .clients-image{
         grid-row: 4;
       }
       .contact-image{
